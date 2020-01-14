@@ -13,16 +13,16 @@ var data= {
             "-defaultMark": "5",
             "item": [
               {
-                "-Question": "1.\t We live with our parents as a : (a) family (b) sibling (c) daughter"
+                "-Question": "1.\t We live with our parents as a : \n\t(a) family (b) sibling (c) daughter"
               },
               {
-                "-Question": "2.\t My uncle's son is my :(a) brother (a) brother (b) cousin (c) grandfather"
+                "-Question": "2.\t My uncle's son is my : \n\t(a) brother (a) brother (b) cousin (c) grandfather"
               },
               {
-                "-Question": "3.\t My father's brother is my :(a) uncle (b) father (c) son"
+                "-Question": "3.\t My father's brother is my : \n\t(a) uncle (b) father (c) son"
               },
               {
-                "-Question": "4.\t Father, ......................... and their children make a family. (a) uncles (b) grandfather (c) mother"
+                "-Question": "4.\t Father, ......................... and their children make a family.  \n\t(a) uncles (b) grandfather (c) mother"
               }
             ]
           },
@@ -98,16 +98,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t Our hands and arms help us to : (a) stand (b) walk (c) hold things"
+                "-Question": "1.\t Our hands and arms help us to :  \n\t(a) stand (b) walk (c) hold things"
               },
               {
-                "-Question": "2.\t Which body organ helps us to think? (a) Brain (b) Heart (c) Hand "
+                "-Question": "2.\t Which body organ helps us to think?  \n\t(a) Brain (b) Heart (c) Hand "
               },
               {
-                "-Question": "3.\t Which is the most important part of our body?(a) Stomach (b) Brain (c) Lungs  "
+                "-Question": "3.\t Which is the most important part of our body? \n\t(a) Stomach (b) Brain (c) Lungs  "
               },
               {
-                "-Question": "4.\t Which body part pumps blood to all parts of the body.(a) Heart (b) Lungs (c) Brain  "
+                "-Question": "4.\t Which body part pumps blood to all parts of the body. \n\t(a) Heart (b) Lungs (c) Brain  "
               }
             ]
           },
@@ -180,16 +180,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t To stay alive we need : (a) toys (b) clothes (c) food "
+                "-Question": "1.\t To stay alive we need :  \n\t(a) toys (b) clothes (c) food "
               },
               {
-                "-Question": "2.\t We should drink at least ......................... glasses of water everyday.(a) 2-4 (b) 4-5 (c) 6-8 "
+                "-Question": "2.\t We should drink at least ......................... glasses of water everyday. \n\t(a) 2-4 (b) 4-5 (c) 6-8 "
               },
               {
-                "-Question": "3.\t The first meal of the day is : (a) breakfast (b) lunch (c) dinner "
+                "-Question": "3.\t The first meal of the day is :  \n\t(a) breakfast (b) lunch (c) dinner "
               },
               {
-                "-Question": "4.\t Avoid eating :(a) fruits (b) vegetables (c) junk food "
+                "-Question": "4.\t Avoid eating : \n\t(a) fruits (b) vegetables (c) junk food "
               }
             ]
           },
@@ -265,16 +265,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t An example of temporary house is :(a) bungalow (b) tent (c) flat "
+                "-Question": "1.\t An example of temporary house is : \n\t(a) bungalow (b) tent (c) flat "
               },
               {
-                "-Question": "2.\t An example of a mobile house is : (a) caravan (b) tent (c) hut "
+                "-Question": "2.\t An example of a mobile house is :  \n\t(a) caravan (b) tent (c) hut "
               },
               {
-                "-Question": "3.\t A material used to make a pucca house is :(a) bamboo (b) straw (c) brick"
+                "-Question": "3.\t A material used to make a pucca house is : \n\t(a) bamboo (b) straw (c) brick"
               },
               {
-                "-Question": "4.\t An igloo is built of :(a) snow (b) mud (c) straw "
+                "-Question": "4.\t An igloo is built of : \n\t(a) snow (b) mud (c) straw "
               }
             ]
           },
@@ -350,16 +350,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t A zebra crossing is seen on the :(a) home (b) park (c) road "
+                "-Question": "1.\t A zebra crossing is seen on the : \n\t(a) home (b) park (c) road "
               },
               {
-                "-Question": "2.\t Which traffic light asks up to stop? (a) Red (b) Orange (c) Green "
+                "-Question": "2.\t Which traffic light asks up to stop?  \n\t(a) Red (b) Orange (c) Green "
               },
               {
-                "-Question": "3.\t Never play in/on the :(a) park (b) house (c) road "
+                "-Question": "3.\t Never play in/on the : \n\t(a) park (b) house (c) road "
               },
               {
-                "-Question": "4.\t Do not play with : (a) toys (b) friends (c) sharp objects"
+                "-Question": "4.\t Do not play with :  \n\t(a) toys (b) friends (c) sharp objects"
               }
             ]
           },
@@ -441,16 +441,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t The ......................... stitches our clothes.(a) cobbler (b) tailor (c) grocer "
+                "-Question": "1.\t The ......................... stitches our clothes. \n\t(a) cobbler (b) tailor (c) grocer "
               },
               {
-                "-Question": "2.\t The ......................... sells medicines. (a) chemist (b) carpenter (c) peon "
+                "-Question": "2.\t The ......................... sells medicines.  \n\t(a) chemist (b) carpenter (c) peon "
               },
               {
-                "-Question": "3.\t The ......................... brings our letters. (a) teacher (b) postman (c) cleaner "
+                "-Question": "3.\t The ......................... brings our letters.  \n\t(a) teacher (b) postman (c) cleaner "
               },
               {
-                "-Question": "4.\t The ......................... keep us safe from thieves and robbers.(a) postman (b) policeman (c) firefighter"
+                "-Question": "4.\t The ......................... keep us safe from thieves and robbers. \n\t(a) postman (b) policeman (c) firefighter"
               }
             ]
           },
@@ -504,16 +504,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t Where do we go in case of an accident? (a) Market (b) Hospital (c) Bank "
+                "-Question": "1.\t Where do we go in case of an accident?  \n\t(a) Market (b) Hospital (c) Bank "
               },
               {
-                "-Question": "2.\t From where we learn good manners and good habits? (a) Police station (b) School  "
+                "-Question": "2.\t From where we learn good manners and good habits?  \n\t(a) Police station (b) School  "
               },
               {
-                "-Question": "3.\t Where do the people deposit money? (a) Bank (b) School (c) Library  " 
+                "-Question": "3.\t Where do the people deposit money?  \n\t(a) Bank (b) School (c) Library  " 
               },
               {
-                "-Question": "4.\t From where can we purchase postcards? (a) Police station (b) School (c) Post office "
+                "-Question": "4.\t From where can we purchase postcards?  \n\t(a) Police station (b) School (c) Post office "
               }
             ]
           },
@@ -586,16 +586,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t Why does India celebrate Republic Day on 26th January? (a) India got independence on this day (b) To celebrate birthday of Gandhiji (c) India became a Republic on this day"
+                "-Question": "1.\t Why does India celebrate Republic Day on 26th January?  \n\t(a) India got independence on this day (b) To celebrate birthday of Gandhiji (c) India became a Republic on this day"
               },
               {
-                "-Question": "2.\t Why does India celebrate Independence Day on 15th August? (a) India became a republic (b) India got independence from British rule on 15th August, 1947 (c) Constitution started to work"
+                "-Question": "2.\t Why does India celebrate Independence Day on 15th August?  \n\t(a) India became a republic (b) India got independence from British rule on 15th August, 1947 (c) Constitution started to work"
               },
               {
-                "-Question": "3.\t Who is called Father of the Nation? (a) Gandhiji (b) Jawaharlal Nehru (c) Dr. Radhakrishnan "
+                "-Question": "3.\t Who is called Father of the Nation?  \n\t(a) Gandhiji (b) Jawaharlal Nehru (c) Dr. Radhakrishnan "
               },
               {
-                "-Question": "4.\t Diwali is an important festival of Hindus. It is also known as the festival of ......................... .(a) colours (b) Assam (c) Tamil Nadu"
+                "-Question": "4.\t Diwali is an important festival of Hindus. It is also known as the festival of ......................... . \n\t(a) colours (b) Assam (c) Tamil Nadu"
               }
             ]
           },
@@ -674,19 +674,19 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t Big and tall plants are called ......................... .(a) shrubs (b) herbs (c) trees"
+                "-Question": "1.\t Big and tall plants are called ......................... . \n\t(a) shrubs (b) herbs (c) trees"
               },
               {
-                "-Question": "2.\t They grow along the ground and have a weak stem : (a) herbs (b) bushes (c) creepers"
+                "-Question": "2.\t They grow along the ground and have a weak stem :  \n\t(a) herbs (b) bushes (c) creepers"
               },
               {
-                "-Question": "3.\t Paper is made from ......................... tree. (a) neem (b) cotton (c) bamboo"
+                "-Question": "3.\t Paper is made from ......................... tree. \n\t(a) neem (b) cotton (c) bamboo"
               },
               {
-                "-Question": "4.\t Eraser are made of the juice of the ......................... tree. (a) neem (b) bamboo(c) rubber "
+                "-Question": "4.\t Eraser are made of the juice of the ......................... tree. \n\t (a) neem (b) bamboo(c) rubber "
               },
               {
-                "-Question": "5.\t Perfumes are mostly made from sweet-smelling :(a) flowers (b) fruits (c) vegetables"
+                "-Question": "5.\t Perfumes are mostly made from sweet-smelling : \n\t(a) flowers (b) fruits (c) vegetables"
               }
             ]
           },
@@ -768,16 +768,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t Wild animals live in : (a) forests (b) farms (c) our homes "
+                "-Question": "1.\t Wild animals live in :  \n\t(a) forests (b) farms (c) our homes "
               },
               {
-                "-Question": "2.\t Which of these is a herbivore?  (a) cow (b) hyena (c) crow "
+                "-Question": "2.\t Which of these is a herbivore?   \n\t(a) cow (b) hyena (c) crow "
               },
               {
-                "-Question": "3.\t A rabbit lives in a : (a) den (b) cave (c) burrow "
+                "-Question": "3.\t A rabbit lives in a :  \n\t(a) den (b) cave (c) burrow "
               },
               {
-                "-Question": "4.\t Animal that builds a nest is : (a) snake (b) bird (c) insect "
+                "-Question": "4.\t Animal that builds a nest is :  \n\t(a) snake (b) bird (c) insect "
               }
             ]
           },
@@ -853,16 +853,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t Air transport includes : (a) Ship (b) Boat (c) Aeroplane "
+                "-Question": "1.\t Air transport includes :  \n\t(a) Ship (b) Boat (c) Aeroplane "
               },
               {
-                "-Question": "2.\t Water transport includes : (a) Helicopter (b) Rocket (c) Boat "
+                "-Question": "2.\t Water transport includes :  \n\t(a) Helicopter (b) Rocket (c) Boat "
               },
               {
-                "-Question": "3.\t Which is the cheapest means of transport ? (a) Train (b) Land (c) Water "
+                "-Question": "3.\t Which is the cheapest means of transport ?  \n\t(a) Train (b) Land (c) Water "
               },
               {
-                "-Question": "4.\t  Find out the odd one : (a) Horse cart (b) Camel cart (c) Car"
+                "-Question": "4.\t  Find out the odd one :  \n\t(a) Horse cart (b) Camel cart (c) Car"
               }
             ]
           },
@@ -932,19 +932,19 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t Which one of the following is an example of mass communication ? (a) Telephone (b) Television (c) Letter"
+                "-Question": "1.\t Which one of the following is an example of mass communication ?  \n\t(a) Telephone (b) Television (c) Letter"
               },
               {
-                "-Question": "2.\t Which one of the following is an example of personal communication? (a) Television (b) Mobile phone (c) Radio"
+                "-Question": "2.\t Which one of the following is an example of personal communication?  \n\t(a) Television (b) Mobile phone (c) Radio"
               },
               {
-                "-Question": "3.\t What do we need to send an e-mail ? (a) Radio (b) Television (c) Computer "
+                "-Question": "3.\t What do we need to send an e-mail ?  \n\t(a) Radio (b) Television (c) Computer "
               },
               {
-                "-Question": "4.\t Which means of communication gives us daily news ? (a) Letter (b) Newspaper (c) Computer"
+                "-Question": "4.\t Which means of communication gives us daily news ?  \n\t(a) Letter (b) Newspaper (c) Computer"
               },
               {
-                "-Question": "5.\t We can listen to : (a) Postcard (b) Radio (c) Letter "
+                "-Question": "5.\t We can listen to :  \n\t(a) Postcard (b) Radio (c) Letter "
               }
             ]
           },
@@ -1023,16 +1023,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t A rainbow can be seen in the sky on a : (a) rainy day (b) windy day (c) sunny day"
+                "-Question": "1.\t A rainbow can be seen in the sky on a :  \n\t(a) rainy day (b) windy day (c) sunny day"
               },
               {
-                "-Question": "2.\t  We like to drink hot drinks in : (a) summers (b) winters (c) none of these"
+                "-Question": "2.\t  We like to drink hot drinks in :  \n\t(a) summers (b) winters (c) none of these"
               },
               {
-                "-Question": "3.\t We like to sit near this when we feel hot : (a) heater (b) bulb (c) fan "
+                "-Question": "3.\t We like to sit near this when we feel hot :  \n\t(a) heater (b) bulb (c) fan "
               },
               {
-                "-Question": "4.\t We use this on a rainy day : (a) umbrella (b) parachute (c) woollen cap  "
+                "-Question": "4.\t We use this on a rainy day :  \n\t(a) umbrella (b) parachute (c) woollen cap  "
               }
             ]
           },
@@ -1111,16 +1111,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t Moving air is called : (a) wind (b) breeze (c) storm"
+                "-Question": "1.\t Moving air is called :  \n\t(a) wind (b) breeze (c) storm"
               },
               {
-                "-Question": "2.\t  The main source of water on earth : (a) rivers (b) rain (c) lakes"
+                "-Question": "2.\t  The main source of water on earth :  \n\t(a) rivers (b) rain (c) lakes"
               },
               {
-                "-Question": "3.\t To get underground water, we dig :(a) wells (b) lakes (c) ponds "
+                "-Question": "3.\t To get underground water, we dig : \n\t(a) wells (b) lakes (c) ponds "
               },
               {
-                "-Question": "4.\t We should store drinking water in :(a) covered pot (b) open pot (c) pond "
+                "-Question": "4.\t We should store drinking water in : \n\t(a) covered pot (b) open pot (c) pond "
               }
             ]
           },
@@ -1196,16 +1196,16 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t A day and a night together make ......................... .(a) 12 hours (b) 20 hours (c) 24 hours"
+                "-Question": "1.\t A day and a night together make ......................... . \n\t(a) 12 hours (b) 20 hours (c) 24 hours"
               },
               {
-                "-Question": "2.\t Seven days make a ......................... .(a) week (b) month (c) year  "
+                "-Question": "2.\t Seven days make a ......................... . \n\t(a) week (b) month (c) year  "
               },
               {
-                "-Question": "3.\t There are ......................... days in a year.(a) 355 (c) 360 (c) 365 "
+                "-Question": "3.\t There are ......................... days in a year. \n\t(a) 355 (c) 360 (c) 365 "
               },
               {
-                "-Question": "4.\t On our left side is : (a) east (b) north (c) south "
+                "-Question": "4.\t On our left side is :  \n\t(a) east (b) north (c) south "
               }
             ]
           },
