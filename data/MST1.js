@@ -605,7 +605,7 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\ Holi is called a ......................... festival."
+                "-Question": "1.\t Holi is called a ......................... festival."
               },
               {
                 "-Question": "2.\t ......................... is celebrated on 25th December, every year. "
@@ -828,7 +828,7 @@ var data= {
                 "-Question": "1.\t What are wild animals? "
               },
               {
-                "-Question": "2.\t 2. What are Carnivores? "
+                "-Question": "2.\t What are Carnivores? "
               },
               {
                 "-Question": "3.\t Write the name of two domestic animals."
@@ -872,13 +872,13 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\t Train           (a) Ocean "
+                "-Question": "1.\t Train           	(a) Ocean "
               },
               {
-                "-Question": "2.\t Ship            (b) Rail "
+                "-Question": "2.\t Ship            	(b) Rail "
               },
               {
-                "-Question": "3.\t Car             (c) Air  "
+                "-Question": "3.\t Car             	(c) Air  "
               },
               {
                 "-Question": "4.\t Aeroplane       (d) Road "
